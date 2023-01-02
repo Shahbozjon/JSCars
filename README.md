@@ -1,2 +1,3 @@
 # JSCars
-Beautiful gallery 
+## 📌 Deployment
+<em>GitHub Pages: </em> https://shahbozjon.github.io/NeedForJS/
