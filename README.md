@@ -1,3 +1,3 @@
 # JSCars
 ## 📌 Deployment
-<em>GitHub Pages: </em> https://shahbozjon.github.io/NeedForJS/
+<em>GitHub Pages: </em> https://shahbozjon.github.io/JSCars/
